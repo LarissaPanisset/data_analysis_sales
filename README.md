@@ -180,3 +180,5 @@ Este exercício prático demonstrou todo o ciclo de análise de dados, desde a o
 - A valor de entender o comportamento por categoria dentro de cada mercado
 - A capacidade de traduzir dados em decisões estratégicas
 
+---
+Feito com 💙 por LARISSA PANISSET
