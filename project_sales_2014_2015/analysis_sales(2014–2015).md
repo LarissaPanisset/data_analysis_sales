@@ -18,14 +18,14 @@ O **objetivo principal** foi identificar padrões de crescimento, oportunidade
 
 - Tabelas de vendas por mercado (2014-2015)
     
-    ![image.png](image.png)
+    ![image.png](IMG/image.png)
     
 
 - Tabelas de vendas por categoria para mercados selecionados
     
-    ![image.png](image%201.png)
+    ![image.png](IMG/image%201.png)
     
-    ![image.png](image%202.png)
+    ![image.png](IMG/image%202.png)
     
 
 **Metodologia Aplicada:**
@@ -43,28 +43,28 @@ O **objetivo principal** foi identificar padrões de crescimento, oportunidade
 
 ## **3. ANÁLISES REALIZADAS**
 
-![image.png](image%203.png)
+![image.png](IMG/image%203.png)
 
 - **Performance Consolidada:** O crescimento expressivo indica saúde operacional e um ano de forte performance
 
-![image.png](image%204.png)
+![image.png](IMG/image%204.png)
 
 - **Insight:** Os mercados consolidados (Asia Pacific e Europa) representam a maior parte do faturamento, enquanto mercados como África e LATAM ainda têm potencial a ser explorado.
 
-![image.png](image%205.png)
+![image.png](IMG/image%205.png)
 
 - **Insight:** A Europa foi a que mais cresceu, mostrando um mercado em forte expansão. Já o LATAM teve o menor crescimento, indicando possíveis barreiras ou saturação.
 
-![image.png](image%206.png)
+![image.png](IMG/image%206.png)
 
-![image.png](image%207.png)
+![image.png](IMG/image%207.png)
 
 - **Technology** teve o maior volume, mas **Office Supplies** teve o maior crescimento: **+36%**
 - Isso sugere uma **nova demanda em Office Supplies**, que pode representar uma oportunidade de investimento.
 
-![image.png](image%208.png)
+![image.png](IMG/image%208.png)
 
-![image.png](image%209.png)
+![image.png](IMG/image%209.png)
 
 - **Technology** lidera em volume e crescimento: **+47%**
 - **Furniture** cresceu mais que **Office Supplies**, indicando uma possível mudança no comportamento do consumidor europeu.
