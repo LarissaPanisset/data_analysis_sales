@@ -96,7 +96,7 @@ A narrativa foi estruturada em três atos:
 ---  
 
 
-# Análise de Vendas (2014–2015)
+# Análise de Vendas (2014 – 2015)
 
 Este projeto teve como tema central a **análise comparativa de vendas por mercado e categoria entre os anos de 2014 e 2015**. O contexto era o de uma empresa global em expansão, buscando compreender seu desempenho recente para orientar decisões estratégicas.
 
