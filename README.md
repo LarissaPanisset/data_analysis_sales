@@ -2,14 +2,14 @@
 
 Este projeto apresenta as etapas e resultados da análise de vendas entre os anos de 2014 e 2015. O foco foi aplicar conceitos de visualização, interpretação e storytelling de dados.
 
-### **2. Objetivos**
+### **1. Objetivos**
 
 - Definir um **público-alvo**;
 - Construir uma **narrativa clara** com começo, meio e fim;
 - Usar a visualização como **ferramenta de comunicação**, não apenas de exibição.
 
 
-### **3. Planejamento da Análise**
+### **2. Planejamento da Análise**
 
 Antes de qualquer manipulação de dados, foram definidas **perguntas-chave** que guiariam a análise:
 
@@ -18,7 +18,7 @@ Antes de qualquer manipulação de dados, foram definidas **perguntas-chave** 
 - Há mercados ou categorias com potencial subexplorado?
 - Como equilibrar investimentos entre mercados maduros e emergentes?
 
-### **4. Coleta e Limpeza de Dados**
+### **3. Coleta e Limpeza de Dados**
 **Ferramenta**: Excel
 
 **Fontes de dados**:
@@ -32,7 +32,7 @@ Antes de qualquer manipulação de dados, foram definidas **perguntas-chave** 
 - Padronização de nomes de mercados e categorias (ex: “Office Supplie” → “Office Supplies”);
 - Consolidação de totais para validação da consistência.
 
-### **5. Exploração e Montagem da Análise**
+### **4. Exploração e Montagem da Análise**
 **Ferramenta**: Excel
 
 **A análise exploratória incluiu:**
@@ -47,7 +47,7 @@ Antes de qualquer manipulação de dados, foram definidas **perguntas-chave** 
 - Variação percentual (para dinamismo);
 - Participação relativa (para contexto).
 
-### **6. Construção dos Gráficos**
+### **5. Construção dos Gráficos**
 **Ferramenta**: Excel
 
 Foram utilizados principalmente **gráficos de barras agrupadas** e **gráficos de barras de crescimento**, com as seguintes justificativas:
@@ -64,7 +64,7 @@ Foram utilizados principalmente **gráficos de barras agrupadas** e **gráfic
 - **Hierarquia visual**: títulos claros e diretos, uso de anotações para destacar insights.
 
 
-### **7. Criação do Storytelling**
+### **6. Criação do Storytelling**
 
 A narrativa foi estruturada em três atos:
 
@@ -83,7 +83,7 @@ A narrativa foi estruturada em três atos:
 - Destaque para oportunidades específicas;
 - Recomendações por mercado e categorias.
 
-### **8. Reflexão sobre o processo**:
+### **7. Reflexão sobre o processo**:
 
 - A abordagem orientada por perguntas e narrativa tornou a análise mais **focada e comunicativa**;
 - A simplificação visual aumentou a **compreensão e o impacto** dos resultados.
