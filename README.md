@@ -1,4 +1,4 @@
-# **📊 Do Planejamento à Análise:**
+# **📊 Do Planejamento à Análise**
 *Uma aplicação prática de storytelling e visualização de dados*
 
 
