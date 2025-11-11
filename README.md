@@ -103,7 +103,7 @@ Este projeto teve como tema central a **análise comparativa de vendas por merc
 
 O **objetivo principal** foi identificar padrões de crescimento, oportunidades regionais e comportamentos por categoria, transformando dados brutos em **insights acionáveis**.
 
-## **Base de Dados e Metodologia**
+## **Base de Dados**
 
 **Fontes de Dados:**
 
