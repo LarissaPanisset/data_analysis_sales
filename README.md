@@ -1,8 +1,4 @@
-# **📊 Do Planejamento à Análise**
-*Uma aplicação prática de storytelling e visualização de dados*
-
-
-### **1. Introdução**
+# **📊 Do Planejamento à Análise: uma aplicação prática de storytelling e visualização de dados** 
 
 Este projeto apresenta as etapas e resultados da análise de vendas entre os anos de 2014 e 2015. O foco foi aplicar conceitos de visualização e interpretação de dados, gerando insights relevantes sobre o desempenho global da empresa.
 
@@ -160,7 +156,7 @@ O **objetivo principal** foi identificar padrões de crescimento, oportunidade
 - Maior volume total de vendas (1,4M)
 - Crescimento estável (+20%)
 - Mercado maduro, porém com oportunidades específicas por categoria
-- **Office Supplies** com crescimento acelerado (+36%), aumentar capacidade de armazenamento, demanda aquecida, possivelmente por expansão de negóciose variedade.
+- **Office Supplies** com crescimento acelerado (+36%), aumentar capacidade de armazenamento, demanda aquecida, possivelmente por expansão de negócios e variedade.
 - **Technology** com crescimento moderado, manter políticas de estoque conservadoras
 
 **Comportamento de Crescimento Global**
