@@ -1,0 +1,7 @@
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+
+*.xlsx linguist-detectable=false
+*.xls linguist-detectable=false
+*.csv linguist-detectable=true
+*.csv linguist-language=Text
