@@ -1,7 +1,6 @@
 # **📊 Do Planejamento à Análise: uma aplicação prática de storytelling e visualização de dados** 
 
-Este projeto apresenta as etapas e resultados da análise de vendas entre os anos de 2014 e 2015. O foco foi aplicar conceitos de visualização e interpretação de dados, gerando insights relevantes sobre o desempenho global da empresa.
-
+Este projeto apresenta as etapas e resultados da análise de vendas entre os anos de 2014 e 2015. O foco foi aplicar conceitos de visualização, interpretação e storytelling de dados.
 
 ### **2. Objetivos**
 
@@ -20,6 +19,7 @@ Antes de qualquer manipulação de dados, foram definidas **perguntas-chave** 
 - Como equilibrar investimentos entre mercados maduros e emergentes?
 
 ### **4. Coleta e Limpeza de Dados**
+**Ferramenta**: Excel
 
 **Fontes de dados**:
 
@@ -33,8 +33,9 @@ Antes de qualquer manipulação de dados, foram definidas **perguntas-chave** 
 - Consolidação de totais para validação da consistência.
 
 ### **5. Exploração e Montagem da Análise**
+**Ferramenta**: Excel
 
-A análise exploratória incluiu:
+**A análise exploratória incluiu:**
 
 - Cálculo de **taxas de crescimento** por mercado e categoria;
 - Comparação de **volumes absolutos** vs. **crescimento relativo**;
@@ -47,6 +48,7 @@ A análise exploratória incluiu:
 - Participação relativa (para contexto).
 
 ### **6. Construção dos Gráficos**
+**Ferramenta**: Excel
 
 Foram utilizados principalmente **gráficos de barras agrupadas** e **gráficos de barras de crescimento**, com as seguintes justificativas:
 
