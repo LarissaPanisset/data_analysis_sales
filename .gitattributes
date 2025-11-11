@@ -1,12 +1,2 @@
 *.md linguist-detectable=true
 *.md linguist-language=Markdown
-
-# Arquivos de dados/ferramentas (Excel, CSV)
-*.xlsx linguist-language=Text linguist-detectable=true
-*.xls linguist-language=Text linguist-detectable=true
-*.csv linguist-language=Text linguist-detectable=true
-
-# Garantir que não sejam contados como código
-*.xlsx -linguist-vendored
-*.xls -linguist-vendored
-*.csv -linguist-vendored
