@@ -1,6 +1,5 @@
-# **📊 Análise de Vendas 2014 – 2015**
-
-*Do planejamento à análise: uma aplicação prática de storytelling e visualização de dados*
+# **📊 Do Planejamento à Análise:**
+*Uma aplicação prática de storytelling e visualização de dados*
 
 
 ### **1. Introdução**
