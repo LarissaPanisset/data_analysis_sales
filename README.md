@@ -59,7 +59,7 @@ Foram utilizados principalmente **gráficos de barras agrupadas** e **gráfic
 
 **Técnicas de visualização aplicadas**:
 
-- **Cores**: uso de tons distintos mas harmônicos (escalas de cinzas), com contraste suficiente;
+- **Cores**: uso de tons distintos e harmônicos (escalas de cinzas), com contraste suficiente;
 - **Simplificação**: remoção de bordas, linhas de grade e legendas redundantes;
 - **Hierarquia visual**: títulos claros e diretos, uso de anotações para destacar insights.
 
